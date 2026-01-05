@@ -1,2 +1,2 @@
 # SAFE-POINTS-SABHH
-Bot de trades hecho.con pythob
+Bot de trades hecho.con Python 
